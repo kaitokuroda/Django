@@ -2,7 +2,9 @@
 
 ブログサイト作りの練習
 
-起動の仕方
+
+# 起動の仕方
+
 $ cd Django/project
 
 $ source myvenv/bin/activate

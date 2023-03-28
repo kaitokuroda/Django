@@ -5,7 +5,7 @@
 
 # 起動の仕方
 
-$ cd Django/project
+$ cd project
 
 $ source myvenv/bin/activate
 
